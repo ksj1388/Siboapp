@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Siboapp", "Siboapp.vbproj", "{DED51C8D-08E1-4649-A157-1EACBB4FE239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED51C8D-08E1-4649-A157-1EACBB4FE239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED51C8D-08E1-4649-A157-1EACBB4FE239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED51C8D-08E1-4649-A157-1EACBB4FE239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED51C8D-08E1-4649-A157-1EACBB4FE239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9DE8F34-4FE0-4EEC-843B-6AF4B221B5CE}
+	EndGlobalSection
+EndGlobal
